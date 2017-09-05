@@ -1,0 +1,58 @@
+2017/7/15: (4)
+	Two Sum
+	Reverse Integer
+	Palindrome Number
+	Roman Integer
+
+2017/7/16: (2)
+	Longest Common Prefix
+	Valid Parentheses
+
+2017/7/17: (2)
+    Remove Duplicates from Sorted Array
+    Remove Element
+
+2017/7/18: (0)
+    None
+
+2017/7/19: (2)
+    Implement strStr()
+    Search Insert Position
+
+2017/7/20: (3)
+	Count and Say
+    Maximum Subarray
+    Length of Last Word
+
+2017/7/21: (2)
+    Add Binary
+    Sqrt(x)
+
+2017/7/22: (0)
+    None
+
+2017/7/23: (2)
+    Plus One
+    Climbing Stairs
+
+2017/7/24: (2)
+	Remove Duplicates from Sorted List
+	Same Tree
+
+2017/7/26: (2)
+    Merge Sorted Array
+    Symmetric Tree
+
+2017/7/27: (0)
+    None
+
+2017/7/28: (1)
+    Merge Sorted List
+
+2017/7/29: (1)
+    Maximum Depth of Binary Tree
+
+2017/7/30: (1)
+    Binary Tree Level Order Traversal ||
+
+2017/7/31: (1)
